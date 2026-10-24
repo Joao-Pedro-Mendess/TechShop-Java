@@ -1,0 +1,10 @@
+
+# Arquivos compilados do Java
+*.class
+
+# Configurações locais do VS Code
+.vscode/
+
+# Pastas de compilação
+bin/
+out/
